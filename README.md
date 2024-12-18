@@ -1,5 +1,7 @@
 # Sales Dashboard in Power BI
 
+## View Online : https://www.youtube.com/watch?v=ZWLlzgoIgZg
+
 ## Overview
 This Power BI Sales Dashboard provides an interactive and visually appealing representation of sales performance and key business metrics. The dashboard empowers stakeholders to gain actionable insights into sales trends, profitability, and customer preferences. It also includes a 15-day sales forecast to help in planning and decision-making.
 
